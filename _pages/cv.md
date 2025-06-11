@@ -11,54 +11,48 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* B.S. in Machine Learning and Statistics, Carnegie Mellon University, May 2026
 
-Work experience
+Relevant Coursework
 ======
-* Spring 2024: Academic Pages Collaborator
-  * GitHub University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+* AI Engineering
+* Algorithms and Advanced Data Structures
+* Principles of Imperative Computing
+* Advanced Methods for Data Science
+* Matrices and Linear Algebra
+* Modern Regression
 
-* Fall 2015: Research Assistant
-  * GitHub University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+Work Experience
+======
+* January 2023 – Present: Project Assistant  
+  * Carnegie Mellon CyLab  
+  * Assists with business and technical operations at CyLab security and privacy research institute  
+  * Conducts data cleansing, ingest, and management for software applications  
+  * Designed improved data organization and storage approaches  
+  * Analyzed potential sponsors and event attendees
 
-* Summer 2015: Research Assistant
-  * GitHub University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-  
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* May 2024 – January 2025: IT Specialist  
+  * Pinnacle Consulting and Recruiting  
+  * Full-time intern retained as remote consultant during school year  
+  * Developed job scraping software in Python  
+  * Assisted in building a custom GPT  
+  * Led internal technology training development
 
-Publications
+* Summer 2023: Business Analyst Intern  
+  * Pittsburgh Hispanic Development Corporation  
+  * Created statistical visualizations of Pittsburgh financial trends  
+  * Assessed business proposals for feasibility and sustainability  
+  * Designed brochure with data-driven content for clients
+
+Technical Skills
 ======
-  <ul>{% for post in site.publications reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
+* Programming Languages: Python (Pandas, PyTorch, NumPy, TensorFlow), R, SQL, C  
+* Tools & Technologies: Jenkins, MLOps, Docker, MLflow  
+* Areas: Data Science, Machine Learning, Regression
+
+Honors & Awards
 ======
-  <ul>{% for post in site.talks reversed %}
-    {% include archive-single-talk-cv.html  %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+* Cylab Peer Recognition Nomination  
+* Dean’s List with High Honors
+
+
