@@ -9,7 +9,7 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default"
-title                    : "Nathaniel Scanlon's Online Portfilo"
+title                    : "Nathaniel Scanlon's Portfilo"
 title_separator          : "-"
 name                     : &name "Nathaniel Scanlon"
 description              : &description "personal description"

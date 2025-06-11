@@ -9,6 +9,10 @@ redirect_from:
 
 Short Bio
 ======
-Hello, I'm a current senior(Graduation in May 2026) at Carnegie Mellon University pursuing a B.S. in Machine Learning and Statistics. I've gained expereince with various tools and technologies in the machine learning industry, both in my time at Carnegie Mellon and in proffesionial domains. From gathering and managing data using tools such as SQL and Pandas to developing and training models using tools such as TensorFlow and PyTorch, to finally deploying and monitoring models using technologies such as Docker, Jenkins, Mlflow and Git. Similarly, I have an extensive statistical and analysis background with various courses on parametric and non parametric regression, advanced probability theory, and other common data science practices. Above, you will find an online form of my resume, along with a list of applicable projects and repos.
+Hello, I’m a senior at Carnegie Mellon University, graduating in May 2026 with a B.S. in Machine Learning and Statistics. I’ve developed hands-on experience with a wide range of tools and technologies in the machine learning space—both through academic coursework and professional roles.
 
+My experience spans the full machine learning pipeline: from data gathering and management using tools like SQL and Pandas, to model development with TensorFlow and PyTorch, and finally to deployment and monitoring using technologies such as Docker, Jenkins, MLflow, and Git.
 
+In parallel, I’ve built a strong foundation in statistical analysis, with coursework covering parametric and nonparametric regression, advanced probability theory, and core data science practices.
+
+Above, you’ll find an online version of my resume along with a collection of relevant projects and repositories.
