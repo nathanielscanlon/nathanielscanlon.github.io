@@ -15,4 +15,4 @@ My experience spans the full machine learning pipeline: from data gathering and 
 
 In parallel, I’ve built a strong foundation in statistical analysis, with coursework covering parametric and nonparametric regression, advanced probability theory, and core data science practices.
 
-Above, you’ll find an online version of my resume along with a collection of relevant projects and repositories.
+Above, you’ll find an online version of my resume along with my github along the side that hosts relevant projects.
