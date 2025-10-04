@@ -142,11 +142,11 @@
   ],
   "portfolio": [
     {
-      "name": "Portfolio item number 1",
+      "name": "Hacking4Humanity 2025 Project",
       "category": "portfolio",
       "date": "",
-      "url": "",
-      "description": "Short description of portfolio item number 1<br/><img src='/images/500x300.png'>"
+      "url": "https://github.com/nathanielscanlon/hacking4humanityfinal",
+      "description": ""
     }
   ]
 }
